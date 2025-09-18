@@ -264,6 +264,12 @@ body::before {
       animation: fadeInUp 1.5s ease-out;
     }
 
+
+     #email_hero{
+      color: #0b5ed7;
+      font-weight: bold;
+    }
+
     .hero-buttons {
       display: flex;
       gap: 15px;
@@ -1568,4 +1574,5 @@ body::before {
   .decoration-bubble {
     display: none;
   }
+
 }
