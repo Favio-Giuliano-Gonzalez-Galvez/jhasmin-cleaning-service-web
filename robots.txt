@@ -1,0 +1,11 @@
+User-agent: *
+Allow: /
+Disallow: /admin/
+Disallow: /private/
+Disallow: /cgi-bin/
+
+# Sitemap location
+Sitemap: https://www.jhasmincleaningservices.com/sitemap.xml
+
+# Crawl delay (optional)
+Crawl-delay: 1
